@@ -1,4 +1,6 @@
 # Lite_launcher_desc
+![Logo](https://raw.githubusercontent.com/jashanpreet-singh-99/Lite_launcher_desc/main/unnamed-3.png)
+![img 1](https://raw.githubusercontent.com/jashanpreet-singh-99/Lite_launcher_desc/main/unnamed.png) ![img 2](https://raw.githubusercontent.com/jashanpreet-singh-99/Lite_launcher_desc/main/unnamed-2.png)
 
 Lite Launcher, available on the Google Play Store, stands out as one of the most lightweight launchers worldwide, boasting an impressively small size of less than 100 Kb. Unlike other lightweight launchers, it successfully maintains a comprehensive feature set without compromising on functionality. Notably, Lite Launcher offers a sliding app drawer accompanied by a myriad of customizable options, including background color, transparency, icon size, label size, and label color, among others.
 
